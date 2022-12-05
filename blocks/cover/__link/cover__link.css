@@ -1,5 +1,5 @@
 .cover__link {
-    max-width: 1184px;
+    max-width: 100%;
     min-height: 740px;
     display: flex;
     flex-direction: column;
@@ -16,3 +16,9 @@
   .cover__link:hover {
     background-image: linear-gradient(rgba(30, 30, 30, 0.8), rgba(30, 30, 30, 0.8)), url(../../../images/cover-trains.jpg);
   }
+
+  @media (max-width: 320px) {
+    .cover__link {
+      margin: 0 auto;
+      min-height: 200px;
+    }
