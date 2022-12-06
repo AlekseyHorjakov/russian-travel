@@ -1,14 +1,14 @@
 .footer__author {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: right;
-    color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  color: #FFFFFF;
 }
 @media (max-width: 320px) {
-    .footer__author {
-      font-size: 14px;
-      line-height: 14px;
-      align-self: flex-start;
-    }
+  .footer__author {
+    font-size: 14px;
+    line-height: 14px;
+    align-self: flex-start;
+  }

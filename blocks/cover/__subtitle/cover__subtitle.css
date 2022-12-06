@@ -1,15 +1,15 @@
 .cover__subtitle {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-align: center;
-    color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
 }
 @media (max-width: 320px) {
-    .cover__subtitle {
+  .cover__subtitle {
       width: 100%;
       font-size: 14px;
       line-height: 16px;
-    }
   }
+}

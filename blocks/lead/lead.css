@@ -1,21 +1,20 @@
 .lead {
-    margin: 0 auto 92px;
-    max-width: 984px;
+  margin: 0 auto 92px;
+  max-width: 984px;
 }
 @media (max-width: 1024px) {
-    .lead {
+  .lead {
       max-width: 928px;
-    }
   }
-  @media (max-width: 768px) {
-    .lead {
+}
+@media (max-width: 768px) {
+  .lead {
       max-width: 100%;
-    }
   }
-  @media (max-width: 320px) {
-    .lead {
+}
+@media (max-width: 320px) {
+  .lead {
       margin: 0 auto 64px;
       max-width: 100%;
-    }
   }
-  
+}
