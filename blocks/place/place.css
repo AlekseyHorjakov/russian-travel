@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
   grid-gap: 40px 48px;
-  margin: 0 0 80px;
+  margin-bottom: 80px;
 }
 @media (max-width: 1024px) {
   .place {
@@ -19,5 +19,6 @@
   .place {
       grid-template-columns: 1fr;
       grid-gap: 32px 0;
+      margin-bottom: 37px;
   }
 }

@@ -3,6 +3,7 @@
     flex-wrap: wrap;
     list-style-type: none;
     padding: 0;
+    margin-bottom: 24px;
 }
 @media (max-width: 320px) {
     .footer__list {

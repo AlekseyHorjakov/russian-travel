@@ -3,7 +3,7 @@
   grid-gap: 16px;
   grid-template-columns: repeat(4, 1fr);
   margin: 0 auto 92px;
-  max-width: calc(100% - 96px);
+  max-width: 1184px;
 }
 @media (max-width: 1024px) {
   .photo-grid {
