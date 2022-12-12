@@ -4,6 +4,7 @@
 }
 @media (max-width: 1024px) {
   .lead__image {
+    margin: 0 auto;
       max-height: 580px;
   }
 }
