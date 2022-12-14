@@ -1,4 +1,4 @@
-.website-url-heading {
+.website__url-heading {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -6,4 +6,5 @@
     letter-spacing: 2px;
     color: #aaaaaa;
     margin: 0 0 12px;
+    text-transform: uppercase;
 }

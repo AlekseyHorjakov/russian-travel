@@ -13,12 +13,12 @@
   .places {
       width: calc(100% - 48px);
       margin-top: 64px;
-      padding: 0;
   }
 }
 
 @media (max-width: 320px) {
   .places {
     width: 100%;
+    margin-bottom: 65px;
   }
 }

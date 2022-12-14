@@ -9,7 +9,7 @@
 }
 
 @media (max-width: 768px) {
-  .intro__text {
+  .intro__subtitle {
     max-width: 100%;
   }
 }

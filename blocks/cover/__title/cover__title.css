@@ -9,11 +9,16 @@
   margin: 0 auto 32px;
 }
 
+@media (max-width: 500px) {
+  .cover__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 109%;
+  }
+
 @media (max-width: 320px) {
   .cover__title {
       width: 250px;
       margin: 0 0 16px;
-      font-size: 32px;
-      line-height: 35px;
   }
 }
