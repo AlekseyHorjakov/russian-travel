@@ -1,12 +1,12 @@
 .website {
-  align-self: end;
   margin: 0;
   padding: 0;
+  align-self: flex-end;
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 465px) {
   .website {
-    align-self: flex-start;
-      margin-left: 16px;
+    margin: 0 auto 32px;
+    width: calc(100% - 32px);
   }
 }

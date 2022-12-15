@@ -9,6 +9,7 @@
 }
 @media (max-width: 768px) {
   .lead {
+    margin-bottom: 91px;
       max-width: 100%;
   }
 }

@@ -7,17 +7,25 @@
   text-align: right;
   color: #FFFFFF;
   margin-bottom: 24px;
+  margin-right: 18px;
 }
+
+@media (max-width: 1024px) {
+  .footer__author {
+    margin-right: 24px;
+  }
+}
+
 @media (max-width: 768px) {
   .footer__author {
-    margin-top: 25px;
     margin-right: 14px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 465px) {
   .footer__author {
     line-height: 14px;
     align-self: flex-start;
     margin-left: 16px;
+    margin-top: 25px;
   }
 }

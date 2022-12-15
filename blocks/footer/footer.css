@@ -6,17 +6,24 @@
   margin: 0 auto;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1280px) {
   .footer {
-      max-width: calc(100% - 96px);
+      max-width: calc(100% - 63px);
   }
 }
+
+@media (max-width: 1024px) {
+  .footer {
+      max-width: calc(100% - 48px);
+  }
+}
+
 @media (max-width: 768px) {
   .footer {
       max-width: calc(100% - 24px);
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 465px) {
   .footer {
       max-width: 100%;
       flex-direction: column;
