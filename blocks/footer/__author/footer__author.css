@@ -19,6 +19,7 @@
 @media (max-width: 768px) {
   .footer__author {
     margin-right: 14px;
+    margin-left: 16px;
   }
 }
 @media (max-width: 465px) {
@@ -26,6 +27,6 @@
     line-height: 14px;
     align-self: flex-start;
     margin-left: 16px;
-    margin-top: 25px;
+    margin-top: 51px;
   }
 }

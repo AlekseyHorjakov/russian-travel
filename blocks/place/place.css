@@ -13,13 +13,14 @@
   .place {
     column-gap: 16px;
     row-gap: 50px;
+    margin-bottom: 78px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place {
-    column-gap: 16px;
     row-gap: 45px;
+    margin-bottom: 73px;
   }
 }
 
@@ -36,7 +37,7 @@
   }
 }
 
-@media screen and (max-width: 465px) {
+@media screen and (max-width: 767px) {
   .place {
     display: flex;
     flex-direction: column;

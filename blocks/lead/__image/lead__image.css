@@ -1,20 +1,20 @@
 .lead__image {
-  margin: 0 auto 8px;
+  margin: 0 auto;
   max-width: 100%;
 }
 @media (max-width: 1024px) {
   .lead__image {
-    margin: 0 auto;
-      max-height: 580px;
+    max-height: 580px;
   }
 }
 @media (max-width: 768px) {
   .lead__image {
+    margin: 0 auto 8px;
      max-height: 480px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 465px) {
   .lead__image {
-      margin: 0 auto 8px;
+      
   }
 }

@@ -6,6 +6,13 @@
     flex-wrap: wrap;
     margin-bottom: 24px;
 }
+
+@media (max-width: 1024px) {
+    .footer__list {
+        margin-bottom: 0;
+    }
+}
+
 @media (max-width: 465px) {
     .footer__list {
         flex-direction: column;

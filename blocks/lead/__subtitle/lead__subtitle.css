@@ -13,8 +13,13 @@
       margin: 0 auto 56px;
   }
 }
+@media (max-width: 516px) {
+  .lead__subtitle {
+      margin: 0 20px 56px;
+  }
+}
 
-@media (max-width: 425px) {
+@media (max-width: 465px) {
   .lead__subtitle {
       margin: 0 auto 40px;
       max-width: 288px;

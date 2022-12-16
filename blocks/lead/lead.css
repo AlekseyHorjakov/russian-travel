@@ -1,19 +1,20 @@
 .lead {
-  margin: 0 auto 92px;
+  margin: 0 auto 94px;
   max-width: 984px;
 }
 @media (max-width: 1024px) {
   .lead {
       max-width: 928px;
+      margin-bottom: 89px;
   }
 }
 @media (max-width: 768px) {
   .lead {
-    margin-bottom: 91px;
+      margin-bottom: 86px;
       max-width: 100%;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 465px) {
   .lead {
       margin: 0 auto 61px;
   }
