@@ -13,6 +13,6 @@
 
 **Ссылка на сайт**
 
-* [Сайт "Путешествие по России"](https://alekseyhorjakov.github.io/russian-travel-pr3/)
+* [Сайт "Путешествие по России"](https://alekseyhorjakov.github.io/russian-travel/)
 
 
